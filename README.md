@@ -4,7 +4,7 @@
 
 ## GitHub Actions
 
-[![Node.js CI](https://github.com/DeivydCharles/prova02-integration-test-deivydcharles/actions)
+[![Node.js CI](https://github.com/DeivydCharles/prova02-integration-test-deivydcharles/actions)]
 
 ## SonarCloud
 

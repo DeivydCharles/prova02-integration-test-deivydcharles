@@ -4,7 +4,7 @@
 
 ## GitHub Actions
 
-[![Node.js CI]([https://github.com/ugioni/integration-tests-jest/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ugioni/integration-tests-jest/actions/workflows/node.js.yml](https://github.com/DeivydCharles/prova02-integration-test-deivydcharles/actions))
+[![Node.js CI](https://github.com/DeivydCharles/prova02-integration-test-deivydcharles/actions)
 
 ## SonarCloud
 

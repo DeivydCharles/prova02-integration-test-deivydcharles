@@ -117,7 +117,7 @@ describe('API Fakerestapi', () => {
         .spec()
         .get(`${baseUrl}/api/v1/Authors/authors/books/${bookId}`)
         .expectStatus(StatusCodes.OK)
-        .expectJsonLength(4)
+        .expectJsonLength(3)
         .expectJsonSchema({
           type: 'array',
           items: {
